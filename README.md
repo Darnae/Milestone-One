@@ -1,2 +1,3 @@
 # Milestone-One
 First Milestone assignment
+For this assigment, I decided to create a Game Character Creation Form using two forms. Attached are my screenshots showing four different stages of my project. The first Picture shows the Start Screen form before any option is picked, the next screen shot shows the options for gender in a combo box, while the third screenshot shows the options for Skills in a combo box. The fouth and last screen shot shows the result of pressing the End button. It creates another Start screen form on top of the previous forms. As my flowchart shows, the end button takes you back to the start screen when pressed.
